@@ -4,7 +4,10 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
+class person()
+{
+    private int date;
+}
 //this is comment
 namespace ORMFrameWork.Models
 {
