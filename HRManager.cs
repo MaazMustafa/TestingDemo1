@@ -34,7 +34,26 @@ namespace BLL
 
             }
 	}
+<<<<<<< HEAD
+
+
+
+
+	//employee class added by mandar
+	public class Employee
+    {
+		public int EmpId { get; set;}
+		public String EmpName { get; set; }
+		public double Salary { get; set; }
+		//adding new parameter
+		public string Email { get; set; }
+    }
+
 	
+
+=======
+	
+>>>>>>> 24a20793333864bb311755f3086a800556b7318e
 	public class HRManager
     { 
 		public static List<Employee> GetAll()
