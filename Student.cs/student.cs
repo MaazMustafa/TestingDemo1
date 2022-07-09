@@ -7,5 +7,7 @@ namespace name
     {
         public string StudentNo { get; set; }
         public string SName { get; set; }
+        //added
+        public int RollNo { get; set; }
     }
 }
