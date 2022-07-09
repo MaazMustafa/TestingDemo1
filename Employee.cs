@@ -29,6 +29,10 @@ namespace ORMFrameWork.Models
         
         public double sal{get;set;}
 
+        public string city{get;set;}
+
+        
+
     }
 }
 //comment added by omkar jadhav
