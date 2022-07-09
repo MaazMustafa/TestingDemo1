@@ -8,6 +8,8 @@ class person()
 {
     private int date;
 }
+//hello all
+//how are you
 //this is comment
 namespace ORMFrameWork.Models
 {
