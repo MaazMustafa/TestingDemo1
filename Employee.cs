@@ -31,7 +31,7 @@ namespace ORMFrameWork.Models
         public string EmailId { get; set; }
         
 
-        public string city{get;set;}
+        public string city { get; set; }
 
         
 
