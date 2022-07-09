@@ -16,8 +16,12 @@ namespace name
 
         public Students()
         {
+<<<<<<< HEAD
             public string StudentNumber { get; set; }
             //*****************************************
+=======
+            //These Are the changes for student branch
+>>>>>>> Student
         }
         public Students(int rollno,string name,int prn.int age)
         {
