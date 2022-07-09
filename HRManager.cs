@@ -49,6 +49,8 @@ namespace BLL
 		//adding new parameter
 		public string Email { get; set; }
 		public int EmpDept { get; set; } 
+		//change
+		public int DOB { get; set; }
     }
 
 	
