@@ -12,6 +12,7 @@ class person()
 namespace ORMFrameWork.Models
 {
     //this is employee class
+    //extra comments again added by omkar jadhav
     [Table("emp10")]
     public class Employee
     {
