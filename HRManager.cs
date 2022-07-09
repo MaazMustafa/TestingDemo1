@@ -9,9 +9,15 @@ using DAL;
 //comment added
 //omkar comment added
 //Comment added Ashwini
+<<<<<<< HEAD
+//extra comment added again by omkar jadhav
+=======
+// This is Omkar Ganjave Adding comment
 
+>>>>>>> fc081919a9906dbb8a8714f2a70cf1d8c31f9391
 namespace BLL
 {
+	//hello this is HRManager class
 	public class Point
 <<<<<<< HEAD
 	{
@@ -65,3 +71,4 @@ namespace BLL
 		}
 	}
 }
+// mayur
