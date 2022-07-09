@@ -7,11 +7,20 @@ using System.Threading.Tasks;
 using BOL;
 using DAL;
 //comment added
+//omkar comment added
+//Comment added Ashwini
+
 namespace BLL
 {
 	public class Point
+<<<<<<< HEAD
 	{
 		public int X { get; set; }
+=======
+	{ 
+	
+	 public int X { get; set; }
+>>>>>>> dabf4254ea7dcbdbe7b540e776e37bd08c7de410
 		public int Y { get; set; }
 
 		public Point

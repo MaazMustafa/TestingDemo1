@@ -31,7 +31,12 @@ namespace ORMFrameWork.Models
         public string EmailId { get; set; }
         
 
+        public string city{get;set;}
+
+        
+
     }
 }
 //comment added by omkar jadhav
 //new comments added 
+//Again comment by omkar
