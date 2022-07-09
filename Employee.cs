@@ -11,6 +11,7 @@ class person()
 //this is comment
 namespace ORMFrameWork.Models
 {
+    //this is employee class
     [Table("emp10")]
     public class Employee
     {
@@ -31,8 +32,16 @@ namespace ORMFrameWork.Models
         public string EmailId { get; set; }
         
 
+        public string city{get;set;}
+
+        
+
     }
 }
 //comment added by omkar jadhav
 //new comments added 
+<<<<<<< HEAD
 //comment added by Ravi Mohite
+=======
+//Again comment by omkar
+>>>>>>> ce95969bd2122bce86b9c9daba9fe03f479aee86
