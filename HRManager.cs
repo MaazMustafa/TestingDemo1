@@ -10,6 +10,7 @@ using DAL;
 //omkar comment added
 namespace BLL
 {
+	//hello this is HRManager class
 	public class Point
 	{ 
 	 public int X { get; set; }
