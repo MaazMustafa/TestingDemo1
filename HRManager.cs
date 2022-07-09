@@ -8,11 +8,14 @@ using BOL;
 using DAL;
 //comment added
 //omkar comment added
+//Comment added Ashwini
+
 namespace BLL
 {
 	//hello this is HRManager class
 	public class Point
 	{ 
+	
 	 public int X { get; set; }
 		public int Y { get; set; }
 	}
