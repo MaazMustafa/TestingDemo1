@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using BOL;
 using DAL;
-
+//comment added
 namespace BLL
 {
 	public class HRManager
