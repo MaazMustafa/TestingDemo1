@@ -19,11 +19,22 @@ namespace BLL
 {
 	//hello this is HRManager class
 	public class Point
+<<<<<<< HEAD
+	{
+		public int X { get; set; }
+=======
 	{ 
 	
 	 public int X { get; set; }
+>>>>>>> dabf4254ea7dcbdbe7b540e776e37bd08c7de410
 		public int Y { get; set; }
+
+		public Point
+			{
+
+            }
 	}
+	
 	public class HRManager
     { 
 		public static List<Employee> GetAll()
