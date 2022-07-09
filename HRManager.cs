@@ -9,7 +9,7 @@ using DAL;
 //comment added
 //omkar comment added
 //Comment added Ashwini
-//comment added by Mandar
+
 namespace BLL
 {
 	public class Point
@@ -19,6 +19,17 @@ namespace BLL
 		public int Y { get; set; }
 	}
 
+
+
+
+	//employee class added
+	public class Employee
+    {
+		public int EmpId { get; set;}
+		public String EmpName { get; set; }
+    }
+
+	s
 
 	public class HRManager
     { 
