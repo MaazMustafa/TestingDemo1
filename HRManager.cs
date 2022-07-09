@@ -48,6 +48,7 @@ namespace BLL
 		public double Salary { get; set; }
 		//adding new parameter
 		public string Email { get; set; }
+		public int EmpDept { get; set; } 
     }
 
 	
