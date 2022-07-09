@@ -28,6 +28,8 @@ namespace ORMFrameWork.Models
         public int deptno { get; set; }
         
         public double sal{get;set;}
+        public string EmailId { get; set; }
+        
 
     }
 }
