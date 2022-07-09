@@ -9,7 +9,7 @@ using DAL;
 //comment added
 //omkar comment added
 //Comment added Ashwini
-//comment added by Mandar 48
+//comment added by Mandar
 namespace BLL
 {
 	public class Point
@@ -18,6 +18,8 @@ namespace BLL
 	 public int X { get; set; }
 		public int Y { get; set; }
 	}
+
+
 	public class HRManager
     { 
 		public static List<Employee> GetAll()
