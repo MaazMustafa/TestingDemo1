@@ -39,14 +39,15 @@ namespace BLL
 
 
 
-	//employee class added
+	//employee class added by mandar
 	public class Employee
     {
 		public int EmpId { get; set;}
 		public String EmpName { get; set; }
+		public double Salary { get; set; }
     }
 
-	s
+	
 
 =======
 	
