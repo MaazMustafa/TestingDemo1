@@ -11,6 +11,8 @@ class person()
 //this is comment
 namespace ORMFrameWork.Models
 {
+    //this is employee class
+    //extra comments again added by omkar jadhav
     [Table("emp10")]
     public class Employee
     {
@@ -39,3 +41,6 @@ namespace ORMFrameWork.Models
 }
 //comment added by omkar jadhav
 //new comments added 
+//Again comment by omkar
+// This is Omkar Ganjave Adding comment
+
