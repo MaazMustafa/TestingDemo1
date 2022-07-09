@@ -7,6 +7,7 @@ namespace name
     {
         public int StudentNo { get; set; }
         public string SName { get; set; }
+<<<<<<< HEAD
 
 
         // changes by Mru . . .
@@ -26,5 +27,9 @@ namespace name
 
 
         }
+=======
+        //added
+        public int RollNo { get; set; }
+>>>>>>> 97a73d099c31bf4a94f59a5a2eec3c426fc42ec6
     }
 }
