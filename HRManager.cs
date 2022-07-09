@@ -10,10 +10,16 @@ using DAL;
 namespace BLL
 {
 	public class Point
-	{ 
-	 public int X { get; set; }
+	{
+		public int X { get; set; }
 		public int Y { get; set; }
+
+		public Point
+			{
+
+            }
 	}
+	
 	public class HRManager
     { 
 		public static List<Employee> GetAll()
