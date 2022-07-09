@@ -13,6 +13,7 @@ using DAL;
 
 namespace BLL
 {
+	//hello this is HRManager class
 	public class Point
 	{ 
 	

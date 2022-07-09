@@ -11,6 +11,7 @@ class person()
 //this is comment
 namespace ORMFrameWork.Models
 {
+    //this is employee class
     [Table("emp10")]
     public class Employee
     {
