@@ -32,4 +32,5 @@ namespace name
         public int RollNo { get; set; }
 >>>>>>> 97a73d099c31bf4a94f59a5a2eec3c426fc42ec6
     }
+
 }

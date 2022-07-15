@@ -1,0 +1,3 @@
+var data="This is a string"
+
+console.log(data);
